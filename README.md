@@ -3,6 +3,10 @@
 ## References
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
+https://www.python.org/dev/peps/pep-0008/
+
+https://github.com/drivendata/cookiecutter-data-science
+
 ## Authors
 * **Timon Zimmermann** - :octocat: [Timonzimm](https://github.com/Timonzimm)
 * **Matteo Togninalli** - :octocat: [mtvisium](https://github.com/mtvisium)
